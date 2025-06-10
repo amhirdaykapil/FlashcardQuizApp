@@ -19,8 +19,7 @@ It allows users to learn through customizable flashcards. Flip the card to view 
 ## 🖼️ Preview
 
 ![image](https://github.com/user-attachments/assets/e02b279d-4f4e-4a26-abed-630f3355cb3f)
-![image](https://github.com/user-attachments/assets/76d2b574-0484-4d1c-9742-ba48d95073fd)
-
+![image](https://github.com/user-attachments/assets/1a484d73-d05b-47ba-bd85-f197c73c2a3e)
 
 ---
 
