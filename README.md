@@ -1,6 +1,6 @@
 # 🧠 Flashcard Quiz App
 
-This is a simple and interactive **Flashcard Quiz App** built as part of the [CodeAlpha App Development Internship](https://www.codealpha.tech/).
+This is a simple and interactive **Flashcard Quiz App**.
 
 It allows users to learn through customizable flashcards. Flip the card to view answers, navigate between flashcards, and add your own questions — all in a clean and minimal UI.
 
@@ -25,7 +25,7 @@ It allows users to learn through customizable flashcards. Flip the card to view 
 
 ## 📁 Folder Structure
 
-CodeAlpha_FlashcardQuizApp/<br>
+FlashcardQuizApp/<br>
 ├── index.html<br>
 ├── style.css<br>
 ├── script.js<br>
